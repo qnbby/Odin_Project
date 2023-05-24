@@ -1,3 +1,3 @@
 # Odin_Project
-Practice Git + Web development repo
+Practice Git + Web development repo!
 Hello Odin!
